@@ -1,0 +1,1 @@
+This is HakaiKitan's first git project!
